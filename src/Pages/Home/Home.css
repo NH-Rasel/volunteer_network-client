@@ -1,0 +1,8 @@
+@media only screen and (min-width: 850px) {
+    .search-field form{
+        width: 50%;
+        margin: 30px 300px;
+        display: flex;
+        justify-content: center;
+    }
+}
